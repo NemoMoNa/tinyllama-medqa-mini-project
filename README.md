@@ -20,3 +20,10 @@ I’m transitioning from PKI technical support to AI engineering. This project i
 ## 🔗 Repo
 https://github.com/NemoMoNa/tinyllama-medqa-mini-project
 
+## License
+
+This project is licensed under the GNU General Public License v3.0 (GPL-3.0), due to the use of the [medical_meadow_medqa dataset](https://huggingface.co/datasets/medalpaca/medical_meadow_medqa), which is derived from GPL-licensed sources.
+
+All code and model artifacts in this repo are subject to the same license.
+
+Original dataset and source: https://github.com/jind11/MedQA
